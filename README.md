@@ -5,13 +5,13 @@ Sample data file processor
 
 ## Build
 
-$ pushd src
-$ javac Main.java
-$ podd
+- $ pushd src
+- $ javac Main.java
+- $ podd
 
 ## Run
 
-$ ./run.sh
+- $ ./run.sh
 
 
 ## License
